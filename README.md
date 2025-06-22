@@ -1,6 +1,8 @@
 # prebootcamp-Rodrigo-Espiritu
 <h1> Hola!! Soy Rodrigo del Nivel Basico <img src="https://media.tenor.com/images/e5d7fb91a839900b04a089994a0e9e0e/tenor.gif" width="100px"> </h1>
 
+Mi nombre es Rodrigo, me encanta todo lo relacionado a lo ETI, lo que mas me llama la atencion de todo es la programacion, el como crear herramientas capaces de salir de nuestra imaginación, me gustaria aprender mas sobre la creacion de los servicios web, las aplicaciones y juegos.
+
 ### Sobre Mi.
 - Tengo 19 años y vivo en Perú.
 - Me fascina la programacion y deseo aprender mas sobre el desarrollo Web.
