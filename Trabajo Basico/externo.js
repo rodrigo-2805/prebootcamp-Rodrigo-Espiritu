@@ -1,0 +1,1 @@
+document.getElementById("Hola").style.color = 'lightgreen';
